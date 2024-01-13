@@ -11,7 +11,8 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-<a href="C:\Users\samue\Desktop\desafios-csharp\diagrama_classe_estacionamento.png")></a>
+
+![diagrama_classe_estacionamento](https://github.com/samuelrazz/Desafio-Decola-Avanade-Fundamentos/assets/121646944/61e1bdea-46ff-44d4-a0c3-d0b0014a2eab)
 
 A classe contém três variáveis, sendo:
 
