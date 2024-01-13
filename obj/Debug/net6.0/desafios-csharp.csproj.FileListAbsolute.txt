@@ -1,0 +1,15 @@
+C:\Users\samue\Desktop\desafios-csharp\obj\Debug\net6.0\desafios-csharp.csproj.AssemblyReference.cache
+C:\Users\samue\Desktop\desafios-csharp\obj\Debug\net6.0\desafios-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\desafios-csharp\obj\Debug\net6.0\desafios-csharp.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\desafios-csharp\obj\Debug\net6.0\desafios-csharp.AssemblyInfo.cs
+C:\Users\samue\Desktop\desafios-csharp\obj\Debug\net6.0\desafios-csharp.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\desafios-csharp\bin\Debug\net6.0\desafios-csharp.exe
+C:\Users\samue\Desktop\desafios-csharp\bin\Debug\net6.0\desafios-csharp.deps.json
+C:\Users\samue\Desktop\desafios-csharp\bin\Debug\net6.0\desafios-csharp.runtimeconfig.json
+C:\Users\samue\Desktop\desafios-csharp\bin\Debug\net6.0\desafios-csharp.dll
+C:\Users\samue\Desktop\desafios-csharp\bin\Debug\net6.0\desafios-csharp.pdb
+C:\Users\samue\Desktop\desafios-csharp\obj\Debug\net6.0\desafios-csharp.dll
+C:\Users\samue\Desktop\desafios-csharp\obj\Debug\net6.0\refint\desafios-csharp.dll
+C:\Users\samue\Desktop\desafios-csharp\obj\Debug\net6.0\desafios-csharp.pdb
+C:\Users\samue\Desktop\desafios-csharp\obj\Debug\net6.0\desafios-csharp.genruntimeconfig.cache
+C:\Users\samue\Desktop\desafios-csharp\obj\Debug\net6.0\ref\desafios-csharp.dll
