@@ -11,7 +11,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
+<a href="C:\Users\samue\Desktop\desafios-csharp\diagrama_classe_estacionamento.png")></a>
 
 A classe contém três variáveis, sendo:
 
